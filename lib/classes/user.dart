@@ -40,6 +40,8 @@ class User with ChangeNotifier {
         idToken: googleSignInAuthentication.idToken,
       );
       await _auth.signInWithCredential(credential);
+      _rootStatus = RootStatus.Authenticated;
+      notifyListeners();
       return true;
     } catch (e) {
       _rootStatus = RootStatus.Unauthenticated;
