@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "682012346653",
+    "firebase_url": "https://biggym-9cd99.firebaseio.com",
+    "project_id": "biggym-9cd99",
+    "storage_bucket": "biggym-9cd99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682012346653:android:b9511cf080004ae54db9f4",
+        "android_client_info": {
+          "package_name": "com.example.big_gym_clinte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682012346653-to1gq3aom8ktdbrnv438eqv9dr05aae1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.big_gym_clinte",
+            "certificate_hash": "8e46dcc572e248e2fd6a7f188313d68471b6b6a6"
+          }
+        },
+        {
+          "client_id": "682012346653-9ch8l0o5obp2qrspqc6bealu6sh48s3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.big_gym_clinte",
+            "certificate_hash": "62f19aac737661c277349c46d61b68b229f52207"
+          }
+        },
+        {
+          "client_id": "682012346653-kb5j62ka9g7vvbeg6157n09e53t0indv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlndUgPwqfYgWqFjK320bQ9s3EboaKck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682012346653-kb5j62ka9g7vvbeg6157n09e53t0indv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
